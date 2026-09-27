@@ -6,7 +6,9 @@
 
 body{
   font-family: "Roboto Slab", serif;
-  width:100%
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 button{
   cursor: pointer;
@@ -657,7 +659,7 @@ footer h2 .r{
   font-size: 16px;
 margin-left: auto;
   margin-right: auto;
-  width: fit-content;
+  
   margin-top: 30px;
 
 }
